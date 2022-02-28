@@ -45,9 +45,9 @@ export default function Home() {
 
           </div>
 
-          <div className="col-sm-6 col-md-5 offset-md-2 col-lg-6 offset-lg-0 mt-4">
+          <div className="col-sm-6 col-md-5 offset-md-2 col-lg-6 offset-lg-0 mt-4" style={{ paddingTop: "300px"}}>
 
-            <img src={d} className="plate" alt='setImg' style={{ marginLeft: "50px" }}></img>
+            <img src={d} className="plate" alt='setImg' style={{ marginLeft: "0px"}}></img>
 
 
           </div>
