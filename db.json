@@ -12,7 +12,7 @@
         "GTIA_USD":200000,
         "Estatus": "PENDIENTE",
         "Fecha_Sol": "2021-11-03 13:26:16",
-        "Fecha_Ven": "2/03/2030",
+        "Fecha_Ven": "2-03-2030",
         "Autorizar": "",
         "Rechazar": "",
         "Detalle": ""
@@ -28,7 +28,7 @@
         "GTIA_USD":400000,
         "Estatus": "PENDIENTE",
           "Fecha_Sol": "2021-11-03 13:26:16",
-        "Fecha_Ven": "2/03/2030",
+        "Fecha_Ven": "2-03-2030",
         "Autorizar": "",
         "Rechazar": "",
         "Detalle": ""
@@ -44,7 +44,7 @@
         "GTIA_USD":900000,
         "Estatus": "PENDIENTE",
         "Fecha_Sol": "2021-11-03 13:26:16",
-        "Fecha_Ven": "2/03/2030",
+        "Fecha_Ven": "2-03-2030",
         "Autorizar": "",
         "Rechazar": "",
         "Detalle": ""
